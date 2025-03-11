@@ -1,0 +1,4 @@
+D:\Jurnalmodul4\obj\Debug\net8.0\Jurnalmodul4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnalmodul4\obj\Debug\net8.0\Jurnalmodul4.AssemblyInfoInputs.cache
+D:\Jurnalmodul4\obj\Debug\net8.0\Jurnalmodul4.AssemblyInfo.cs
+D:\Jurnalmodul4\obj\Debug\net8.0\Jurnalmodul4.csproj.CoreCompileInputs.cache
