@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Jurnalmodul4_103022300104
 {
-    internal class Class1
+    class FanLaptop
     {
+
+        private enum State { Turbo, Balanced }
+        private State state;
+
+        public FanLaptop()
+        {
+            state = State.Turbo;
+        }
+
+        public void 
     }
+
 }
